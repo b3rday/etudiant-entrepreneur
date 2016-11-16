@@ -86,6 +86,9 @@ export default {
     linkedin: '',
     viadeo: '',
   },
+  user: {
+    isAuthenticated: false
+  },
   errors: {
     contact: {},
     bac: {},
